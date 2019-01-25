@@ -24,7 +24,7 @@ Best efforts are made to make each image a link to the first non-Google-Image so
 
 To use the local port 8101:
 
-```docker run -d --rm -p 8101:80 fractos/archillect``
+```docker run -d --rm -p 8101:80 fractos/archillect```
 
 Then point a browser at:
 
