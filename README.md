@@ -1,5 +1,7 @@
 # archillect-animate
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/fractos/archillect-animate.svg?style=for-the-badge)](https://hub.docker.com/r/fractos/archillect-animate/)
+
 A Python app that will create an automatically refreshed web page showing the last X number of images from http://archillect.com
 
 Best efforts are made to make each image a link to the first non-Google-Image source as provided by Archillect's image page.
